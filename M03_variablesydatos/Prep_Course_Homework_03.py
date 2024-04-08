@@ -55,6 +55,7 @@
 
 
 pi = 3.1416
+print('holii')
 
 
 # 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
