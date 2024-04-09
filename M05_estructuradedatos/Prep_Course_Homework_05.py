@@ -5,7 +5,7 @@
 
 # 1) Crear una lista que contenga nombres de ciudades del mundo que contenga más de 5 elementos e imprimir por pantalla
 
-lista = [1,2,3,4,5]
+lista = ['popayan', 'neiva','cali','medellin']
 
 # 2) Imprimir por pantalla el segundo elemento de la lista
 
